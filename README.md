@@ -1,6 +1,6 @@
 # DRUM KIT USING CLICKS ONLY
 
-This is a very simple interactive **Drum kit application**.
+This is a very simple interactive **Drum Kit Application**.
 
 ### Features
 - Has clickable drums.
@@ -11,7 +11,7 @@ This is a very simple interactive **Drum kit application**.
 - Open Drum Kit Starting Files.
 - Open index.html and load in your browser.
 - Click the drum buttons using your mouse.
--Make a beat.
+- Make a beat.
 
 ### Technologies Used
 - HTML
